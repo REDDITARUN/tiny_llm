@@ -2,7 +2,7 @@
 
 Welcome to the Tiny LLM Performance Analysis repository! This project tests several small-scale language models that you can run locally, analyzing their performance across various tasks. If you're interested in experimenting with local language models and seeing how they handle a range of prompts from simple to complex then you're in the right place!
 
-Check out my blog on this for idepth comparision and analysis: 
+Check out my blog on this for idepth comparision and analysis:  https://medium.com/@teendifferent/exploring-tiny-llms-as-your-personal-assistant-llama-3-2-codegemma-and-more-679f5455c8c4
 
 ## Project Overview
 
